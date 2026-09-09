@@ -41,19 +41,6 @@ Atualmente estou estudando Java, Spring Boot, banco de dados e desenvolvimento w
 
 ---
 
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WilsonCLima&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonCLima&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 Objetivo
 
 Busco evoluir como desenvolvedor Backend Java, criando projetos que demonstrem boas práticas, arquitetura limpa e APIs REST robustas.
