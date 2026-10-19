@@ -30,12 +30,7 @@ Atualmente estou estudando Java, Spring Boot, banco de dados e desenvolvimento w
 - APIs REST
 - JPA e Hibernate
 - Arquitetura de Software
-- Testes em Java
 - Docker
-
----
-
-## 🎯 Objetivo
 
 Busco evoluir como desenvolvedor Backend Java, criando projetos que demonstrem boas práticas, arquitetura limpa e APIs REST robustas.
 
